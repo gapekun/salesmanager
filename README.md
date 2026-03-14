@@ -1,4 +1,4 @@
-# 販売管理システム（Access VBA）
+﻿# 販売管理システム（Access VBA）
 
 ## 概要
 中小企業向けの本格的な販売管理システムです。
@@ -57,3 +57,18 @@
 4. イミディエイトウィンドウで `RunAllSetup` と入力し、Enterキーを押して実行します。
    - ※自動的にバックエンド用DBの作成やテーブル、クエリ、フォーム、レポートのビルドが行われます。
 5. 作成された `F_Login` フォームからログインし（初期設定の場合はそのままログイン可）、`F_Menu` 画面が開けばセットアップ完了です。
+
+## スクリーンショット
+
+### メインメニュー
+![メインメニュー1](images/main_menu1.jpg)
+![メインメニュー2](images/main_menu2.jpg)
+![メインメニュー3](images/main_menu3.jpg)
+![メインメニュー4](images/main_menu4.jpg)
+![メインメニュー5](images/main_menu5.jpg)
+
+### 売上入力画面
+![売上入力](images/sales_input.png)
+
+### レポート画面
+![レポート](images/report.png)
