@@ -68,7 +68,7 @@
 ![メインメニュー5](images/main_menu5.jpg)
 
 ### 売上入力画面
-![売上入力](images/sales_input.png)
+![売上入力](images/sales.jpg)
 
 ### レポート画面
-![レポート](images/report.png)
+![レポート](images/report.jpg)
